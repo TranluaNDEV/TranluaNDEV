@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi, I'm luaNDEV! 👋
+Hello everyone, I'm LuaNDEV!, from Vietnam 🇻🇳.
 <!--
 **TranluaNDEV/TranluaNDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
